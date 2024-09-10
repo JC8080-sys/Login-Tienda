@@ -2,3 +2,7 @@
 - wilberth
 - angel
 - luz
+# AMIGOS
+- ANGEL
+- LUZ
+- JHON 
